@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /PRIVACY_POLICY/
+---
+
 # Privacy Policy for RiverWatch
 
 **Last updated: July 10, 2026**
