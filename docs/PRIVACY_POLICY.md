@@ -11,6 +11,18 @@ permalink: /PRIVACY_POLICY/
 
 RiverWatch is designed with your privacy in mind. We collect minimal information:
 
+
+## In-App Purchases
+
+RiverWatch offers optional in-app purchases to remove advertisements:
+- Monthly subscription
+- One-time lifetime purchase
+
+Payment processing is handled by Google Play. We do not collect or
+store payment information directly. Purchase information is managed
+by Google Play's billing system.
+
+
 ### Location Data
 - **Purpose**: To show nearby river monitoring stations on the map
 - **Storage**: Location data is used temporarily and not stored on our servers
